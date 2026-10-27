@@ -192,7 +192,7 @@ Here are the submission materials:
    (Follows the exact 4-part presentation: Problem Statement, Solution Design, UI & AI Demonstration including the Vehicle Owner Portal, and Full-Stack Code Walkthrough).
 
 2. Source Code Repository:
-   [Insert GitHub Repository URL Here]
+   https://github.com/Hir1420/PitStop-AI
    (Monorepo containing Next.js 14 frontend, FastAPI backend, Docker Compose, and automated tests).
 
 3. Key Highlights & Deliverables:
